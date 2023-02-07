@@ -1,6 +1,6 @@
 {
   "orgName": "Comms-TMF-API - Dev Org",
-  "edition": "Developer",
+  "template": "0TT3y000000TbHC",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
