@@ -1,0 +1,92 @@
+extract:
+  vlocity_cmt__AttributeCategory__c:
+    fields:
+    - vlocity_cmt__IsActive__c
+    - vlocity_cmt__ApplicableSubType__c
+    - vlocity_cmt__ApplicableTypes__c
+    - vlocity_cmt__ApplicableTypesFilter__c
+    - vlocity_cmt__LockedFlg__c
+    - vlocity_cmt__Code__c
+    - vlocity_cmt__ColorCode__c
+    - vlocity_cmt__Description__c
+    - vlocity_cmt__DisplaySequence__c
+    - vlocity_cmt__EffectiveUntilDate__c
+    - vlocity_cmt__EffectiveFromDate__c
+    - vlocity_cmt__DisplayFilter__c
+    - vlocity_cmt__GlobalKey__c
+    - vlocity_cmt__IndustryVertical__c
+    - Name
+    - vlocity_cmt__IsPrivate__c
+    - vlocity_cmt__Status__c
+    - vlocity_cmt__UIControlType__c
+    - vlocity_cmt__IsUserAttributesCreatedPrivate__c
+  vlocity_cmt__Attribute__c:
+    fields:
+    - vlocity_cmt__ActiveFlg__c
+    - vlocity_cmt__ApplicableToAllRecords__c
+    - vlocity_cmt__ApplicableToEntity__c
+    - vlocity_cmt__AttributeCategoryId__c
+    - vlocity_cmt__AttributeGroupType__c
+    - vlocity_cmt__IsCloneable__c
+    - vlocity_cmt__Code__c
+    - vlocity_cmt__Configurable__c
+    - vlocity_cmt__CopyMode__c
+    - vlocity_cmt__CustomConfigUiTemplate__c
+    - vlocity_cmt__Value__c
+    - vlocity_cmt__Description__c
+    - vlocity_cmt__DesignTime__c
+    - vlocity_cmt__DisplaySequence__c
+    - vlocity_cmt__EditMode__c
+    - vlocity_cmt__EffectiveUntilDate__c
+    - vlocity_cmt__EffectiveFromDate__c
+    - vlocity_cmt__IsEncrypted__c
+    - vlocity_cmt__ExcludeFromBasketCache__c
+    - vlocity_cmt__Filterable__c
+    - vlocity_cmt__GlobalKey__c
+    - vlocity_cmt__HelpText__c
+    - vlocity_cmt__isDefaultHidden__c
+    - Name
+    - vlocity_cmt__IsNotAssetizable__c
+    - vlocity_cmt__Overridable__c
+    - vlocity_cmt__OwnerId__c
+    - vlocity_cmt__PicklistId__c
+    - vlocity_cmt__IsPrivate__c
+    - vlocity_cmt__RunTime__c
+    - vlocity_cmt__UniqueNameField__c
+    - vlocity_cmt__ValueType__c
+  vlocity_cmt__Picklist__c:
+    fields:
+    - Name
+    - vlocity_cmt__Code__c
+    - vlocity_cmt__DataType__c
+    - vlocity_cmt__Description__c
+    - vlocity_cmt__EffectiveFromDate__c
+    - vlocity_cmt__EffectiveUntilDate__c
+    - vlocity_cmt__GlobalGroupKey__c
+    - vlocity_cmt__GlobalId__c
+    - vlocity_cmt__GlobalKey__c
+    - vlocity_cmt__IsActive__c
+    - vlocity_cmt__IsPublic__c
+    - vlocity_cmt__IsShared__c
+    - vlocity_cmt__LifecycleStatus__c
+    - vlocity_cmt__Type__c
+    - vlocity_cmt__UnitOfMeasureName__c
+    - vlocity_cmt__VersionLabel__c
+  vlocity_cmt__PicklistValue__c:
+    fields:
+    - vlocity_cmt__Abbreviation__c
+    - vlocity_cmt__IsActive__c
+    - vlocity_cmt__BooleanValue__c
+    - vlocity_cmt__Code__c
+    - vlocity_cmt__DateTimeValue__c
+    - vlocity_cmt__DateValue__c
+    - vlocity_cmt__IsDefault__c
+    - vlocity_cmt__EffectiveFromDate__c
+    - vlocity_cmt__EffectiveUntilDate__c
+    - vlocity_cmt__GlobalKey__c
+    - Name
+    - vlocity_cmt__NumberValue__c
+    - vlocity_cmt__Sequence__c
+    - vlocity_cmt__TextValue__c
+    - vlocity_cmt__UnitOfMeasureName__c
+    - vlocity_cmt__PicklistId__c
